@@ -1,0 +1,1217 @@
+Agenda structure | Day 1
+2 Days of Keynotes, Talks, Workshops, Tutorials
+/
+Delivered by the best in the field of Data, Analytics and AI
+Data Innovation Summit is constructed so it equally addresses all the elements of data-driven and AI-ready business: data,
+people, processes and technology. The event is built to be both business and technical, practical and inspirational, realistic
+and futuristic, educational and exciting, regional and global, live and digital, general and niched, inspiring and influential.
+It is
+showcasing some of the best data-driven innovative projects, products, business ideas and technologies, presented by some of
+the world's most advanced and innovative organisations in the world.
+Explore the agenda and build your own schedule based on topics and sessions you would like to attend across all stages and
+crash-course workshop rooms.
+KEYNOTES
+CHAIRMAN’S DAY 1 CLOSING REMARKS
+WELCOMING NOTES
+EXPO
+TECHNOLOGY IN PRACTICE SESSIONS | ROUND 1
+Expo Crawl & Data After Dark
+Track sessions
+Track sessions
+M1
+M2
+M3
+M4
+M5
+M6
+M7
+M8
+M9
+DO
+Wx
+M1
+M2
+M3
+M4
+M5
+M6
+M7
+M8
+M9
+DO
+Wx
+M1
+M2
+M3
+M4
+M5
+M6
+M7
+M8
+M9
+DO
+Track sessions
+P1
+P1
+KEYNOTES/OPENING AND CLOSING STAGE
+DATA SCIENCE AND ADVANCED ANALYTICS STAGE
+BUSINESS AND DATA ANALYTICS STAGE
+DATA ENGINEERING & DATAOPS STAGE
+MACHINE LEARNING & MLOPS STAGE
+INDUSTRIAL ANALYTICS STAGE
+MODERN DATA PLATFORM STAGE
+MODERN DATA STRATEGY STAGE
+APPLIED & HUMAN-CENTRIC AI INNOVATION STAGE
+DATABASES & ARCHITECTURE STAGE
+DATA OCTAGON - ONLINE PROGRAMME
+WORKSHOP SESSIONS
+Legend
+P1
+M6
+M5
+M2
+M1
+M7
+M3
+M4
+M8
+M9
+DO
+Wx
+Day 2
+M1
+M2
+M3
+M4
+M5
+M6
+M7
+M8
+M9
+DO
+Wx
+M1
+M2
+M3
+M4
+M5
+M6
+M7
+M8
+M9
+DO
+KEYNOTES
+CHAIRMAN’S CLOSING REMARKS
+NETWORKING COFFEE & PEER-TO-PEER MEETINGS
+DATA CAFÉ, ONE TO ONE MEETINGS & TECHNOLOGY IN PRACTICE SESSIONS
+NETWORKING LUNCH
+NETWORKING LUNCH
+Track sessions
+Track sessions
+P1
+P1
+EXPO
+EXPO
+EXPO
+EXPO
+12
+13
+Machine Learning &
+MLOps Stage
+8:00
+Registration Opens
+8:30
+Welcoming Notes and Orientation
+8:40
+[ P1 ]
+Chairman's Opening remarks
+|
+Henrik Göthberg - Founder |
+Dairdux
+9:00
+[ P1 ]
+Future Outlook - A dialog between
+Mr. Marcus Wallenberg and Kye Andersson
+9:20
+[ P1 ]
+Opening Keynote
+| The Secret to AI Innovation -
+Cassie Kozyrkov - Chief Decision Scientist | Google
+9:45
+[ P1 ]
+Keynote |
+Design For Use, Deliver Value: Data Products Start From The Outside In |
+Dr. Jennifer Belissent - Principal
+Data
+Strategist
+|
+Snowflake
+10:05
+[ EXPO ]
+Networking Coffee & Peer-to-Peer Meetings
+10:30
+[ M1 ]
+Moderator's Opening Remarks -
+Errol Koolmeister - Founder | The AI Framework
+10:40
+[ M1 ]
+Python is the new excel: Unlock the value of your data investments with a code-first analytics strategy |
+Kjell
+Carlsson - Head of Data Science Strategy & Evangelism | Domino Data Lab
+11:10
+[ M1 ]
+Review of large scale video ranking and recommendation |
+Aditya Guglani - Senior Machine Learning Engineer | Meta
+11:40
+[ M1 ]
+The Promise and Pitfalls of Generative AI for Enterprises |
+Alex Erfurt - Senior Machine Learning Specialist | Google Cloud
+12:10
+[ M1 ]
+Creating Business Value with Advanced Analytics |
+Peter Nord Andersson - Actuarial Data Scientist & Business
+Advisor | Northinsight AB
+12:30
+[ EXPO ]
+Networking Lunch
+13:40
+[ M1 ]
+Breaking Silos for Successful ML Products |
+Leonard Aukea - Head of Machine Learning Engineering & Operations | Volvo Cars
+14:10
+[ M1 ]
+A practical approach to MLOps for the Enterprise |
+Anurag Sahay - Global Lead of Data Science & ML | Nagarro
+14:40
+[ M1 ]
+Revolution within the lending sphere: Instant risk decision with ML |
+Busra Cikla - Data Scientist | ING
+15:10
+[ EXPO ]
+Networking Coffee & Peer-to-Peer Meetings
+15:40
+[ EXPO ]
+Technology in practice | Round 1
+16:10
+[ M1 ]
+Regulatory data science at the Swedish Medical Products Agency |
+Gabriel Westman - Head of
+Artificial
+Intelligence
+|
+Swedish
+Medical
+Products
+Agency
+16:40
+[ M1 ]
+Engineering scalable AI/ML continuous training pipelines in production |
+Dogukan Sonmez - Project Lead: Machine
+Learning Platform | BMW AG
+17:10
+[ P1 ]
+Chairman's Closing Remarks in the Plenum Area
+|
+Henrik Göthberg - Founder |
+Dairdux
+17:20
+[ EXPO ]
+Expo Crawl
+17:40
+[ EXPO ]
+Data after Dark program
+Technical presentations on deploying, running and scaling Machine Learning, Deep Learning, Natural Language processing,
+Generative Adversarial Network, Transformers, and Artificial Intelligence into production. This year focusing also on MLOps
+techniques to improve delivery time, reduce defects, and make machine learning more productive.
+M1
+DAY 1
+All session timings are in
+CEST
+(Central European Summer Time).
+DAY 2
+All session timings are in
+CEST
+(Central European Summer Time).
+13
+8:00
+Registration Opens
+8:40
+[ P1 ]
+Chairman's Opening remarks
+|
+Henrik Göthberg - Founder |
+Dairdux
+9:00
+[ P1 ]
+Keynote | AI: From offline & centralized to online & federated |
+Jan Bosch - Professor of Software Engineering
+Director Software Center | Software Center @ Chalmers University of Technology
+9:25
+[ P1 ]
+Keynote |
+Data Lakehouses, Moneyball, and Raoul Wallenberg: a Journey in Data and AI |
+Ari Kaplan - Head of
+Evangelism | Databricks
+9:45
+[ P1 ]
+Data Café & Peer-to-Peer Meetings
+10:15
+[ EXPO ]
+Technology in practice | Round 2
+10:55
+[ M1 ]
+Moderator's Opening Remarks -
+Errol Koolmeister - Founder | The AI Framework
+11:00
+[ M1 ]
+Transparency in Diagnosis: How XAI Helps Doctors Interpret Deep Learning |
+Hugo Gävert - Chief Data and AI
+Officer
+|
+DAIN
+Studios
+11:30
+[ M1 ]
+Mastering the Art of Recommender System Evaluation |
+Amey Porobo Dharwadker - Machine Learning
+Technical Lead | Meta
+12:00
+[ M1 ]
+Enhanced automation by integrating AI in robotic processes |
+Anders Dr
+æ
+ge - Team lead AI/ML,
+Data Scientist | Frende Forsikring
+12:20
+[ EXPO ]
+Networking Lunch
+13:30
+[ M1 ]
+Understanding the Landscape of Large Language Models |
+Thomas Capelle - Machine Learning Engineer | Weights & biases
+14:00
+[ M1 ]
+When machine learning meets fashion |
+Celine Xu - Lead Data Scientist | H&M
+14:30
+[ M1 ]
+Why aren’t models a financial asset category? |
+Jonathan Schmidt - Product Owner, Anti-Fraud Machine
+Learning | Nets A/S, Nexi Group
+15:00
+[ M1 ]
+How to manage zero touch closed loop AI Ops when the goalposts are constantly moving |
+Kai Chaza -
+Automation & AI Ops Lead – IoT aaS | Ericsson AB
+15:30
+[ M1 ]
+How bandits and Angry Birds go together - Using Bayesian bandits for user acquisition |
+Aappo Pulkkinen - Lead
+Data Scientist | Rovio
+16:00
+[ M1 ]
+Building Conviction and Credibility in ML Based Solutions |
+Armin Catovic - Senior Machine Learning Engineer | EQT
+16:30
+[ P1 ]
+Chairman's Closing Remarks in the Expo Area
+|
+Henrik Göthberg - Founder |
+Dairdux
+Apply to present
+EMAIL EDITORIAL
+The speaker list of
+Data Innovation Summit 2023
+consists of high-level
+executives from both public and private organisations, and covers many
+industries in both B2B and B2C sector. If you are interested in speaking
+contact:
+Saranda
+Arifi,
+Editorial
+Director
+at
+saranda@hyperight.com
+Stage Moderator
+Errol
+Koolmeister
+Stage Partner
+Join The Most Influential Data, AI and Advanced Analytics Event!
+BUY TICKETS
+14
+15
+8:00
+Registration Opens
+8:30
+Welcoming Notes and Orientation
+8:40
+[ P1 ]
+Chairman's Opening remarks
+|
+Henrik Göthberg - Founder |
+Dairdux
+9:00
+[ P1 ]
+Future Outlook - A dialog between
+Mr. Marcus Wallenberg and Kye Andersson
+9:20
+[ P1 ]
+Opening Keynote | The Secret to AI Innovation -
+Cassie Kozyrkov - Chief Decision Scientist | Google
+9:45
+[ P1 ]
+Keynote | Design For Use, Deliver Value: Data Products Start From The Outside In |
+Dr. Jennifer Belissent - Principal
+Data
+Strategist
+|
+Snowflake
+10:05
+[ EXPO ]
+Networking Coffee & Peer-to-Peer Meetings
+10:30
+[ M2 ]
+Moderator's Opening Remarks
+|
+Lotte Ansgaard Thomsen - Lead Data Architect at AI Solution | Grundfos
+10:40
+[ M2 ]
+Lifting the lid on the hidden data integration problem |
+Simon Ambridge - Solutions Engineer | StreamSets & Saleem
+Pothiwala - Founder | Kermit Tech
+11:10
+[ M2 ]
+Would you like to start with MLOps? Lessons learned from Trustpilot |
+Stefano Bosisio -
+Machine Learning Engineer | Trustpilot
+11:40
+[ M2 ]
+Modernising Data Movement for Real-Time Analytics at EasyPark |
+Erkki Pärna - Head of Data Platform | EasyPark
+12:10
+[ M2 ]
+A revolutionary journey towards the Data Governance shift left |
+Paolo Platter - CTO | Agile Lab & Stefano Patti - Head of
+Data Architecture & Technology | UniCredit & Tomas Dersjö - Senior Manager | Scania
+12:30
+[ EXPO ]
+Networking Lunch
+13:40
+[ M2 ]
+How to Data Product |
+Max Schultze - Associate Director of Data Engineering | HelloFresh
+14:10
+[ M2 ]
+Data Mesh for event driven applications |
+Nikola Sever - Principal Consultant | Syntio
+14:40
+[ M2 ]
+Feature Store - Integrating Infrastructure as code into a continuous delivery of pipeline
+15:10
+[ EXPO ]
+Networking Coffee & Peer-to-Peer Meetings
+15:40
+[ M2 ]
+Technology in practice | Round 1
+16:10
+[ M2 ]
+Sculpting Data for Machine Learning |
+Jigyasa Grover & Rishabh Misra - Senior Machine Learning Engineers | Twitter
+16:40
+[ M2 ]
+ML Journey unification at Expedia Group |
+Hisham Mohamed - Director, Machine Learning Engineering | Expedia Group
+17:10
+[ P1 ]
+Chairman's Closing Remarks in the Plenum Area
+|
+Henrik Göthberg - Founder |
+Dairdux
+17:20
+[ EXPO ]
+Expo Crawl
+17:40
+[ EXPO ]
+Data after Dark program
+M2
+Technical stage focusing on the tech stack, software infrastructure and ways to architect and implement on-premise, hybrid or
+cloud-native data pipelines and infrastructure to enable analytics and machine learning on rich and quality datasets. Focus on
+Data-Ops, ML Ops, Auto ML, Cloud ML, Fast Data,Feature Extraction and much more.
+Data Engineering &
+DataOps Stage
+15
+8:00
+Registration Opens
+8:40
+[ P1 ]
+Chairman's Opening remarks
+|
+Henrik Göthberg - Founder |
+Dairdux
+9:00
+[ P1 ]
+Keynote | AI: From offline & centralized to online & federated |
+Jan Bosch - Professor of Software Engineering
+Director Software Center | Software Center @ Chalmers University of Technology
+9:25
+[ P1 ]
+Keynote |
+Data Lakehouses, Moneyball, and Raoul Wallenberg: a Journey in Data and AI |
+Ari Kaplan - Head of
+Evangelism | Databricks
+9:45
+[ P1 ]
+Data Café & Peer-to-Peer Meetings
+10:15
+[ EXPO ]
+Technology in practice | Round 2
+10:55
+[ M2 ]
+Moderator's Opening Remarks
+|
+Lotte Ansgaard Thomsen - Lead Data Architect at AI Solution | Grundfos
+11:00
+[ M2 ]
+Maximizing data productivity with orchestration and flexibility: Schibsted's journey with Matillion |
+Mick
+Flynn - Data Architect | Schibsted
+11:30
+[ M2 ]
+How to structure a modern DataOps Team
+12:00
+[ M2 ]
+Data robustness – Important lessons on running data in production |
+Olof Granberg - Director of Data and
+Advanced Analytics Technology | ICA Gruppen
+12:20
+[ EXPO ]
+Networking Lunch
+13:30
+[ M2 ]
+Deep data observability in a world of both structured and semi-structured data |
+Patrik Liu Tran, PhD - CEO &
+Co-founder | Validio
+14:00
+[ M2 ]
+Building a modern Self-Service Data Platform |
+Anders Butzbach Christensen - Senior Manager, Data
+Engineering Global | The LEGO Group
+14:30
+[ M2 ]
+How Abacus Medicine Invests in Data Reliability to Support Business Growth |
+Malte Olsen - Head of Business
+Analytics & Mariana Sørensen Alves Monteiro - Team Lead for Data Engineering | Abacus Medicine
+15:00
+[ M2 ]
+Data Science Platform for Data-Driven Manufacturing in Northvolt Gigafactories |
+Marcus Ulmefors - Director
+Data & Machine Learning Platforms | Northvolt
+15:30
+[ M2 ]
+Envisioning the Financial Close – The Need for Financial Data Quality in accounting |
+Deepak Yadav - Engineering
+Manager, Data | Amazon
+16:00
+[ M2 ]
+Building a modern data architecture: Presto for the open data lakehouse |
+Girish Baliga - Engineering Manager &
+Chair, Presto Foundation | Uber & Tim Meehan - Software Engineer & Chair, Presto Technical Steering Committee | Meta
+16:30
+[ P1 ]
+Chairman's Closing Remarks in the Expo Area
+|
+Henrik Göthberg - Founder |
+Dairdux
+DAY 1
+All session timings are in
+CEST
+(Central European Summer Time).
+DAY 2
+All session timings are in
+CEST
+(Central European Summer Time).
+Apply to present
+EMAIL EDITORIAL
+The speaker list of
+Data Innovation Summit 2023
+consists of high-level
+executives from both public and private organisations, and covers many
+industries in both B2B and B2C sector. If you are interested in speaking
+contact:
+Saranda
+Arifi,
+Editorial
+Director
+at
+saranda@hyperight.com
+Stage Partner
+Stage Moderator
+Lotte Ansgaard
+Thomsen
+Join The Most Influential Data, AI and Advanced Analytics Event!
+BUY TICKETS
+16
+17
+8:00
+Registration Opens
+8:30
+Welcoming Notes and Orientation
+8:40
+[ P1 ]
+Chairman's Opening remarks
+|
+Henrik Göthberg - Founder |
+Dairdux
+9:00
+[ P1 ]
+Future Outlook - A dialog between
+Mr. Marcus Wallenberg and Kye Andersson
+9:20
+[ P1 ]
+Opening Keynote | The Secret to AI Innovation -
+Cassie Kozyrkov - Chief Decision Scientist | Google
+9:45
+[ P1 ]
+Keynote |
+Design For Use, Deliver Value: Data Products Start From The Outside In |
+Dr. Jennifer Belissent - Principal
+Data
+Strategist
+|
+Snowflake
+10:05
+[ EXPO ]
+Networking Coffee & Peer-to-Peer Meetings
+10:30
+[ M3 ]
+Moderator's Opening Remarks |
+Iiris Lahti - Founder | AI Roots
+10:40
+[ M3 ]
+Modernize Your Data Integration Architecture for Better Analytics |
+Ted Orme - Head of Data Integration Strategy
+EMEA | Qlik
+11:10
+[ M3 ]
+Scaling Advanced Analytics at Enterprise Level - Dual Operating Model Approach |
+Vineeth Menon - Head of Data
+Lake Engineering & Sandeep Ramachandran - Investment Lead Architect – Enterprise Analytics Platform | Swedbank
+11:40
+[ M3 ]
+From data silos to automated and streamlined data-driven decision making with Data Orchestration
+12:10
+[ M3 ]
+Cloud Tactics |
+Hamik Sevan - Chief Architect Analytics Telia NO & DK | Telia
+12:30
+[ EXPO ]
+Networking Lunch
+13:40
+[ M3 ]
+Modernizing the data infrastructure at Swedbank: Dig where you stand, aim for the clouds |
+Håkan Jonsson -
+Lead Architect | Swedbank
+14:10
+[ M3 ]
+Leverage 1st party data to act with agility & precision to deliver personalization |
+Alex Dean - CEO | Snowplow
+14:40
+[ M3 ]
+How to Build a Modern Data Infrastructure Using a Lakehouse
+15:10
+[ EXPO ]
+Networking Coffee & Peer-to-Peer Meetings
+15:40
+[ EXPO ]
+Technology in practice | Round 1
+16:10
+[ M3 ]
+Lessons learned implementing a Data Mesh for Data Access Acceleration at Volkswagen Group |
+Christoph
+Spohr - Lead Architect Big Data Platforms | Volkswagen AG
+16:40
+[ M3 ]
+Monitoring Data Foundation Aiding Digital Transformation – Discussion|
+Dr.
+Maria
+Papastathi
+-
+Chief
+Data
+Officer
+-
+Technology, Jacques Vosloo - Lead Architect - Surveillance & Anja Visser - Senior Data Architect – Asset | Shell
+17:10
+[ P1 ]
+Chairman's Closing Remarks in the Plenum Area
+|
+Henrik Göthberg - Founder |
+Dairdux
+17:20
+[ EXPO ]
+Expo Crawl
+17:40
+[ EXPO ]
+Data after Dark program
+Strategy and technical stage focusing on developing disruptive modern data platform that supports shifting business models,
+adapts to changing workforce operations, and dynamically and intelligently connects the enterprise. The building blocks of a
+modern data platform include sources, ingestion, storage, query and processing, transformation, analyses, and output.
+M3
+Modern
+Data Platform Stage
+17
+8:00
+Registration Opens
+8:40
+[ P1 ]
+Chairman's Opening remarks
+|
+Henrik Göthberg - Founder |
+Dairdux
+9:00
+[ P1 ]
+Keynote | AI: From offline & centralized to online & federated |
+Jan Bosch - Professor of Software Engineering
+Director Software Center | Software Center @ Chalmers University of Technology
+9:25
+[ P1 ]
+Keynote |
+Data Lakehouses, Moneyball, and Raoul Wallenberg: a Journey in Data and AI |
+Ari Kaplan - Head of
+Evangelism | Databricks
+9:45
+[ P1 ]
+Data Café & Peer-to-Peer Meetings
+10:15
+[ EXPO ]
+Technology in practice | Round 2
+10:55
+[ M3 ]
+Moderator's Opening Remarks |
+Iiris Lahti - Founder | AI Roots
+11:00
+[ M3 ]
+Agile From First Principles |
+Jonathan Sunderland - Catalyst | Ab Initio
+11:30
+[ M3 ]
+Reserved for TimeXtender
+12:00
+[ M3 ]
+The business value-centric modern data platform |
+Jens Gyllving | Tietoevry Care & Niklas Lundmark | Folksam
+12:20
+[ EXPO ]
+Networking Lunch
+13:30
+[ M3 ]
+Transforming the Data Infrastructure: From legacy EDW to Modern Cloud Data Warehouse with the Power of DW
+Automation |
+Mikko Ollila - Head of Data Platforms | Kesko
+14:00
+[ M3 ]
+Modernising Pandora’s Data Platform |
+Roberta Sbrocco - Technical Product Manager & Diogo Geada -
+Software Engineer | Pandora
+14:30
+[ M3 ]
+Unlocking Data’s Value: How to Strike the Efficiency-Security Balance |
+Bart Koek - Field CTO, EMEA APJ | Immuta
+15:00
+[ M3 ]
+The Fundamentals of a successful Data Mesh |
+Søren Christensen - Chief Cloud Architect | Novo Nordisk
+15:30
+[ M3 ]
+Model Employee – Barona’s roadmap to data success |
+Kristiina Juurmaa - Data Development Manager & Janne
+Heikkilä - Information Architec | Barona Oy
+16:00
+[ M3 ]
+Building a business-critical data platform to process over £34bn in card transactions |
+Sandeep Mehta -
+Engineering Lead Data Platforms | Dojo
+16:30
+[ P1 ]
+Chairman's Closing Remarks in the Expo Area
+|
+Henrik Göthberg - Founder |
+Dairdux
+DAY 1
+All session timings are in
+CEST
+(Central European Summer Time).
+DAY 2
+All session timings are in
+CEST
+(Central European Summer Time).
+Apply to present
+EMAIL EDITORIAL
+The speaker list of
+Data Innovation Summit 2023
+consists of high-level
+executives from both public and private organisations, and covers many
+industries in both B2B and B2C sector. If you are interested in speaking
+contact:
+Saranda
+Arifi,
+Editorial
+Director
+at
+saranda@hyperight.com
+Stage Partner
+Stage Moderator
+Iiris
+Lahti
+Join The Most Influential Data, AI and Advanced Analytics Event!
+BUY TICKETS
+18
+19
+8:00
+Registration Opens
+8:30
+Welcoming Notes and Orientation
+8:40
+[ P1 ]
+Chairman's Opening remarks
+|
+Henrik Göthberg - Founder |
+Dairdux
+9:00
+[ P1 ]
+Future Outlook - A dialog between
+Mr. Marcus Wallenberg and Kye Andersson
+9:20
+[ P1 ]
+Opening Keynote | The Secret to AI Innovation -
+Cassie Kozyrkov - Chief Decision Scientist | Google
+9:45
+[ P1 ]
+Keynote |
+Design For Use, Deliver Value: Data Products Start From The Outside In |
+Dr. Jennifer Belissent - Principal
+Data
+Strategist
+|
+Snowflake
+10:05
+[ EXPO ]
+Networking Coffee & Peer-to-Peer Meetings
+10:30
+[ M4 ]
+Moderator's Opening Remarks
+|
+Daniel Tidström - Senior Partner | Data Edge
+10:40
+[ M4 ]
+The Sky is the Limit - Tackling Cloud Complexity |
+Matt Turner - Director, Partner and Industry Marketing | Alation
+11:10
+[ M4 ]
+Introduction to Data Federation -A modern outlook on Data Strategies |
+David Dadoun - CDO | BRP
+11:40
+[ M4 ]
+The hidden importance of data management in business cases |
+Fredrik Ekman - Senior Specialist & Ida Eriksdotter -
+Senior Principle | Valcon
+12:10
+[ M4 ]
+Driving Digital Services and Analytics with Konecranes’ Data Platform |
+Gohar Shah - Data Platform Owner | Konecranes
+12:30
+[ EXPO ]
+Networking Lunch
+13:40
+[ M4 ]
+Oda’s six principles for value creation from Data & Insight |
+Nina Walberg - Head of Data & Insight & Maria
+Nørgaard - Data Analyst | Oda
+14:10
+[ M4 ]
+Fastest time to insights using a business model-driven Data Warehouse automation approach |
+Petr Beles -
+Senior Consultant | Datavault Builder
+14:40
+[ M4 ]
+Powering Fingrid’s Digital Transformation with Alation Data Catalog |
+Joona Säynevirta - Data Architect | Fingrid Oyj
+15:10
+[ EXPO ]
+Networking Coffee & Peer-to-Peer Meetings
+15:40
+[ EXPO ]
+Technology in practice | Round 1
+16:10
+[ M4 ]
+Data Mesh in Practice at Unity: A Case Study |
+Emil S. Jørgensen - Head of Data & Analytics,
+Core Creation Suite | Unity Technologies
+16:40
+[ M4 ]
+TBA |
+Eva Saidac - VP, Head of Ericsson Enterprise IT Data and Analytics | Ericsson
+17:10
+[ P1 ]
+Chairman's Closing Remarks in the Plenum Area
+|
+Henrik Göthberg - Founder |
+Dairdux
+17:20
+[ EXPO ]
+Expo Crawl
+17:40
+[ EXPO ]
+Data after Dark program
+A strategy and technical track focusing on ways to create a future-proof and agile modern data strategy for enterprise grade
+application of Advanced Analytics and AI, from ownership to implementation. This year’s focus is on the Data Fabric, Data &
+Information Governance, Big Data quality, Data Mesh, Data Foundation, master data, warehousing, Data Lake, and much more.
+M4
+Modern
+Data Strategy Stage
+19
+8:00
+Registration Opens
+8:40
+[ P1 ]
+Chairman's Opening remarks
+|
+Henrik Göthberg - Founder |
+Dairdux
+9:00
+[ P1 ]
+Keynote | AI: From offline & centralized to online & federated |
+Jan Bosch - Professor of Software Engineering
+Director Software Center | Software Center @ Chalmers University of Technology
+9:25
+[ P1 ]
+Keynote |
+Data Lakehouses, Moneyball, and Raoul Wallenberg: a Journey in Data and AI |
+Ari Kaplan - Head of
+Evangelism | Databricks
+9:45
+[ P1 ]
+Data Café & Peer-to-Peer Meetings
+10:15
+[ EXPO ]
+Technology in practice | Round 2
+10:55
+[ M4 ]
+Moderator's Opening Remarks
+|
+Daniel Tidström - Senior Partner | Data Edge
+11:00
+[ M4 ]
+Hybrid data usage is stressing data governance and compliance. Are you confident that your data is used as it
+is supposed to be? |
+Dennis Lauwers - CTO Hybrid Cloud EMEA | IBM
+11:30
+[ M4 ]
+Tips and tricks for successful AI projects |
+Patrik Gunnersten - Partner and Presale Manager | Conoa/Proact & Luke
+Simmons - DevOps Engineer | Västra Götalands Regionen, VGR & Mikael Klintberg - Senior Project Manager | AI Sweden &
+Charles Morrall -Datacenter Solution Architect | Proact IT Sweden
+12:00
+[ M4 ]
+Case Study: How Yle democratized data & analytics |
+Samuli Pöntinen - Head Of Data | Yle, The Finnish
+Broadcasting Company
+12:20
+[ EXPO ]
+Networking Lunch
+13:30
+[ M4 ]
+Tips and tricks to build your Data Knowledge workplace |
+Laurent Dresse - Chief Evangelist | DataGalaxy
+14:00
+[ M4 ]
+Creating a data foundation to drive change |
+Johanna
+Kruckenberg
+Turén
+-
+Head
+of
+Data
+Management
+Office
+&
+Deputy
+Chief
+Data
+Officer
+|
+Handelsbanken
+14:30
+[ M4 ]
+From 0 to full stack data observability |
+Salma
+Bakouk
+-
+Co-founder
+and
+CEO
+|
+Sifflet
+15:00
+[ M4 ]
+Becoming a data centric organisation: the data management strategy at the Bank of Lithuania |
+Edita
+Lukaševičiūtė
+-
+Head
+of
+Data
+Governance
+Division
+|
+Bank
+of
+Lithuania
+15:30
+[ M4 ]
+Putting Your Data To Work With A Modern Data Strategy |
+Alwyn Thomas - Head of Data Strategy | Financial Times
+16:00
+[ M4 ]
+How data meets innovation at Lufthansa Group |
+Santiago Erroz Ferrer - Data Scientist Technical Lead | Lufthansa Group
+16:30
+[ P1 ]
+Chairman's Closing Remarks in the Expo Area
+|
+Henrik Göthberg - Founder |
+Dairdux
+DAY 1
+All session timings are in
+CEST
+(Central European Summer Time).
+DAY 2
+All session timings are in
+CEST
+(Central European Summer Time).
+Apply to present
+EMAIL EDITORIAL
+The speaker list of
+Data Innovation Summit 2023
+consists of high-level
+executives from both public and private organisations, and covers many
+industries in both B2B and B2C sector. If you are interested in speaking
+contact:
+Saranda
+Arifi,
+Editorial
+Director
+at
+saranda@hyperight.com
+Stage Partner
+Join The Most Influential Data, AI and Advanced Analytics Event!
+BUY TICKETS
+Stage Moderator
+Daniel
+Tidström
+20
+21
+8:00
+Registration Opens
+8:30
+Welcoming Notes and Orientation
+8:40
+[ P1 ]
+Chairman's Opening remarks
+|
+Henrik Göthberg - Founder |
+Dairdux
+9:00
+[ P1 ]
+Future Outlook - A dialog between
+Mr. Marcus Wallenberg and Kye Andersson
+9:20
+[ P1 ]
+Opening Keynote | The Secret to AI Innovation -
+Cassie Kozyrkov - Chief Decision Scientist | Google
+9:45
+[ P1 ]
+Keynote |
+Design For Use, Deliver Value: Data Products Start From The Outside In |
+Dr. Jennifer Belissent - Principal
+Data
+Strategist
+|
+Snowflake
+10:05
+[ EXPO ]
+Networking Coffee & Peer-to-Peer Meetings
+10:30
+[ M5 ]
+Moderator's Opening Remarks
+|
+Dacil Hernandez - Director Data/AI practices | Nagarro
+10:40
+[ M5 ]
+Building blocks of a modern analytics platform
+11:10
+[ M5 ]
+Six Essential Business Skills for Analytics Professionals |
+David Stephenson - Founder DSI Analytics and
+Author
+“Big
+Data
+Demystified”
+|
+DSI
+Analytics
+and
+University
+of
+Amsterdam
+11:40
+[ M5 ]
+TBA |
+Omar Ali Fdal - Chief Data Scientist & Head of Privacy Research | Anonos
+12:10
+[ M5 ]
+Leveraging the Data Platform for Expanded Value Generation: Beyond Analytics and Reporting |
+Mikko
+Ollila - Head of Data Platforms | Kesko
+12:30
+[ EXPO ]
+Networking Lunch
+13:40
+[ M5 ]
+Doing More with Less |
+Linda Rothan-Cederberg - Analytics & Data Manager | Electrolux
+14:10
+[ M5 ]
+So you think you know data automation? |
+Anja Loug Helland - Head of Advisory & Co-founder & Terje Vatle - Chief
+Technology
+Officer
+|
+BI
+Builders
+14:40
+[ M5 ]
+From Excel Chaos to Democratized Analytics Clarity |
+Albin Gropp - Business Developer | Apotek Hjärtat
+15:10
+[ EXPO ]
+Networking Coffee & Peer-to-Peer Meetings
+15:40
+[ EXPO ]
+Technology in practice | Round 1
+16:10
+[ M5 ]
+Innovation and Data-drivenness in large companies: Differences and Similarities |
+Marisa Leysen Jestin - Head of
+Data Insights – Global Online Experience | Volvo Cars
+16:40
+[ M5 ]
+How to improve customer data quality with unified digital identity |
+Eija Moisala - Head of Digital Identity, Data and
+Design System | Elisa & Joonatan Henriksson - Vice CEO | Haidion
+17:10
+[ P1 ]
+Chairman's Closing Remarks in the Plenum Area
+|
+Henrik Göthberg - Founder |
+Dairdux
+17:20
+[ EXPO ]
+Expo Crawl
+17:40
+[ EXPO ]
+Data after Dark program
+Strategy and technical presentations on how companies can improve their analytics capabilities while maintaining balance between
+control and agility of their enterprise available platforms adapted for various user personas, analytics capabilities, data and
+use
+cases. Focus on governance, connectivity, data preparation, catalogs, automated insights, augmentation, data visualisation, NLQ...
+M5
+Business and Data
+Analytics Stage
+21
+8:00
+Registration Opens
+8:40
+[ P1 ]
+Chairman's Opening remarks
+|
+Henrik Göthberg - Founder |
+Dairdux
+9:00
+[ P1 ]
+Keynote | AI: From offline & centralized to online & federated |
+Jan Bosch - Professor of Software Engineering
+Director Software Center | Software Center @ Chalmers University of Technology
+9:25
+[ P1 ]
+Keynote |
+Data Lakehouses, Moneyball, and Raoul Wallenberg: a Journey in Data and AI |
+Ari Kaplan - Head of
+Evangelism | Databricks
+9:45
+[ P1 ]
+Data Café & Peer-to-Peer Meetings
+10:15
+[ EXPO ]
+Technology in practice | Round 2
+10:55
+[ M5 ]
+Moderator's Opening Remarks
+|
+Dacil Hernandez - Director Data/AI practices | Nagarro
+11:00
+[ M5 ]
+Decision Intelligence: What is it and why?
+11:30
+[ M5 ]
+Top 10 Analytics Mistakes |
+Adam Greco - Product Evangelist | Amplitude
+12:00
+[ M5 ]
+How we support and optimize self-service analytics, in a transformative business environment |
+Jonas
+Blomqvist - Head of Analytics & Data | Scandinavian Airlines
+12:20
+[ EXPO ]
+Networking Lunch
+13:30
+[ M5 ]
+How Data Lineage Streamlines Regulatory Deadlines for Large Enterprise Data Environments |
+Marek Pikna -
+Manager of Professional Services | Manta
+14:00
+[ M5 ]
+Navigating the Analytics Transformation: From Vision to Reality - A Journey through Analytics Harmonization &
+Data Democratization |
+Camilla Sternberg - Head of Common Analytics & Malinda Phillips - Head of Insight &
+Data
+Office
+|
+Telia
+Company
+14:30
+[ M5 ]
+Empower your employees and make governance and data democratization go hand in hand |
+Sofie
+Vejlby
+Kaas
+Hansen - Commercial Analyst | Novozymes & Rune Bendix Wittchen - Principal | Devoteam Data Driven
+15:00
+[ M5 ]
+Maximizing value extraction with data as product practices |
+Sandra Real - Data as a product lead | Adevinta
+15:30
+[ M5 ]
+How to Build Your Growth Forecasting Machine |
+Henrik Landgren - Co-founder & CPTO | Ark Kapital
+16:00
+[ M5 ]
+Rethinking the Value of Analytics |
+Ibrahim Elawadi - Global Director, Digital Analytics | Philips
+16:30
+[ P1 ]
+Chairman's Closing Remarks in the Expo Area
+|
+Henrik Göthberg - Founder |
+Dairdux
